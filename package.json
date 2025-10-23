@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "tsx async-lock.ts",
+    "dev": "tsx spread-undefined.ts",
     "test": "vitest",
     "test:ui": "vitest --ui"
   },
